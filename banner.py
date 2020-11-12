@@ -19,7 +19,7 @@ header1 = """
  `888X  `~""`   :     ^Y8888*""    888&   .888B . 
    "88k.      .~        `Y"        R888"  ^*888%  
      `""*==~~`                      ""      "%    
-                  CREATE FRAMEWORK
+                     Covid19
  """
                   
 header2 = """ 
@@ -40,7 +40,7 @@ oooooooooooo              o8o  oooo
  888oooo8     `88.  .8'  `888   888  
  888    "      `88..8'    888   888  
  888       o    `888'     888   888  
-o888ooooood8     `8'     o888o o888o  Creators.
+o888ooooood8     `8'     o888o o888o  Covid19.
 """
 
 header4 = """
@@ -49,7 +49,7 @@ header4 = """
 __________      ___________
 ___  ____/__   ____(_)__  /
 __  __/  __ | / /_  /__  / 
-_  /___  __ |/ /_  / _  /  -Creators
+_  /___  __ |/ /_  / _  /  -Covid19
 /_____/  _____/ /_/  /_/
 """   
 header5 = """
@@ -77,7 +77,7 @@ S*b    S*S  S*S  S*S   `S%b  S*b       d*S     l*S
 S*S.   S*S  S*S  S*S    S%S  S*S.     .S*S    .S*P  
  SSSbs_S*S  S*S  S*S    S&S   SSSbs_sdSSS   sSS*S   
   YSSP~SSS  S*S  S*S    SSS    YSSP~YSSY    YSS'    
-            SP   SP      \033[1;37m           Creators\033[31m
+            SP   SP      \033[1;37m           Covid19\033[31m
             Y    Y  
 \033[1;37m
 """
